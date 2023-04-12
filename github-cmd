@@ -1,0 +1,6 @@
+Need create a new repo with unique name in main branch.
+Then we need clone it to our local machine.
+In order to clone this new repository to our local machine we need create a new directory or we can use existed directory.
+mkdir <newd irectory>
+cd <new directory>
+git init >>>>>> Need initialize if you created new directory. You don't ave to initialize if you using existed and already initialized directory.
